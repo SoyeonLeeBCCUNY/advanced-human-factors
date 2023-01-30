@@ -252,6 +252,7 @@ Peruse one or more of the following standards:
 #### Ethical Considerations and Design (Dashiell)
 
 ### 2/8/2023
+#### (Soyeon) Surface transportation and attention
 
 #### (Hailee) Human Reliability/Error and introduction to automation
 
